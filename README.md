@@ -14,13 +14,13 @@ Self-taught backend developer focused on Django. Experienced in building complex
 ## Skills
 
 **Languages / Frameworks:**  
-Python, Django (FBV), Django Forms, Django Admin  
+Python, Django (FBV, CBV, Generic CBV), Django Forms, Django Admin, Rest Framwork
 
 **Frontend:**  
 HTML, CSS, Bootstrap, basic JavaScript  
 
 **Other:**  
-Git, GitHub, SQLite, simple API, basic Docker use, basic testing  
+Git, GitHub, SQLite, PosgresSQL, simple API, basic Docker use, basic testing  
 
 ---
 
