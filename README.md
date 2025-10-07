@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-Self-taught backend developer focused on Django. Experienced in building complex websites with user systems, carts, comments, and APIs. Comfortable with Git, HTML/CSS, and Bootstrap. Actively learning and motivated to grow. Open to internships or junior-level positions.
+Self-taught backend developer focused on Django. Experienced in building complex websites with user systems, carts, comments, and APIs.
 
 ---
 
@@ -20,17 +20,12 @@ Python, Django (FBV, CBV, Generic CBV), Django Forms, Django Admin, Rest Framwor
 HTML, CSS, Bootstrap, basic JavaScript  
 
 **Other:**  
-Git, GitHub, SQLite, PosgresSQL, simple API, basic Docker use, basic testing  
+Git, GitHub, SQLite, PosgresSQL, simple API, basic Docker use, basic testing, celery, redis
 
 ---
 
 ## English
 A2 — can read documentation with a translator, write simple messages, speaking is basic but willing to practice.  
-
----
-
-## Goal
-Looking for a **Junior Django Backend Developer** position. Open to internships, remote work, or freelance. Available onsite in Vinnytsia if needed.  
 
 ---
 
@@ -40,4 +35,3 @@ Looking for a **Junior Django Backend Developer** position. Open to internships,
 - Telegram: [@YasD1m](https://t.me/YasD1m)
 - Phone number: +380970825679
 - LinkedIn: [www.linkedin.com](https://www.linkedin.com/in/dmitry-yasinsky-83a265366/?locale=en_US)
-
